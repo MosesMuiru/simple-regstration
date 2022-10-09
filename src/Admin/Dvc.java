@@ -1,4 +1,4 @@
-package Admin.Management;
+package Admin;
 
 
 public interface Dvc {
